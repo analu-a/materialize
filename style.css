@@ -1,0 +1,16 @@
+body{
+    background-image: url(./img/background.png);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+main{
+    height: 100vh;
+}
+
+.container{
+display: flex;
+transform: translate(620px, -600px);
+width: 20vw;
+}
+
