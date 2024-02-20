@@ -22,15 +22,18 @@ h6{
     color: #F3CC4D;
 }
 
+/* coluna amarela */
 .col.s12.m4.l4.amber.lighten-2.text-center{
     display: flex;
     padding-top: 32px;
 }
 
+/* todas as colunas */
 .row.center-align{
     height: 100vh;
 }
 
+/* colunas laterais */
 .col.m4.l4.valign-wrapper.hide-on-small-only{
     display: flex;
     justify-content: center;
@@ -39,6 +42,7 @@ h6{
    
 }
 
+/* botao */
 .waves-effect.brown.darken-4.btn{
     font-size: 20px;
    
